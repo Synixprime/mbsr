@@ -622,6 +622,7 @@ body {
     .meditation-circle {
         width: 250px;
         height: 250px;
+        margin-bottom: 30px;
     }
 
     .meditation-img {
@@ -668,5 +669,4 @@ body {
  * Site MBSR Béziers
  * Développé par Leni Buisson
  * Année 2025
-
  */
