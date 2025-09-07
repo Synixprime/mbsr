@@ -607,6 +607,7 @@ body {
     }
 
     .hero-content h1 {
+        margin-top: 90px;
         font-size: 2.5rem;
     }
 
@@ -667,4 +668,5 @@ body {
  * Site MBSR Béziers
  * Développé par Leni Buisson
  * Année 2025
+
  */
